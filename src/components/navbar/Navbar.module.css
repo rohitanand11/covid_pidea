@@ -1,0 +1,14 @@
+.Navbar{
+    width:100%;
+    height: 60px;
+    background-color: black;
+}
+
+.brandName{
+    padding-top: 5px;
+    margin-left: 20px;
+    align-self: center;
+    color:whitesmoke;
+    font-size: 30pt;
+    font-family: 'Lexend Tera', sans-serif;
+}

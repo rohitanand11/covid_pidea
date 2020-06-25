@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/covid_pidea/static/css/main.ec9f786f.chunk.css",
+    "main.js": "/covid_pidea/static/js/main.3819958a.chunk.js",
+    "main.js.map": "/covid_pidea/static/js/main.3819958a.chunk.js.map",
+    "runtime-main.js": "/covid_pidea/static/js/runtime-main.5f447c89.js",
+    "runtime-main.js.map": "/covid_pidea/static/js/runtime-main.5f447c89.js.map",
+    "static/js/2.2c5cf927.chunk.js": "/covid_pidea/static/js/2.2c5cf927.chunk.js",
+    "static/js/2.2c5cf927.chunk.js.map": "/covid_pidea/static/js/2.2c5cf927.chunk.js.map",
+    "index.html": "/covid_pidea/index.html",
+    "precache-manifest.cff20379bdf8f799352ef0b2b865fcbf.js": "/covid_pidea/precache-manifest.cff20379bdf8f799352ef0b2b865fcbf.js",
+    "service-worker.js": "/covid_pidea/service-worker.js",
+    "static/css/main.ec9f786f.chunk.css.map": "/covid_pidea/static/css/main.ec9f786f.chunk.css.map",
+    "static/js/2.2c5cf927.chunk.js.LICENSE.txt": "/covid_pidea/static/js/2.2c5cf927.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f447c89.js",
+    "static/js/2.2c5cf927.chunk.js",
+    "static/css/main.ec9f786f.chunk.css",
+    "static/js/main.3819958a.chunk.js"
+  ]
+}
